@@ -1,2 +1,2 @@
 # ExPytonADS
-Exercícios em Python do curso de ADS
+Resolução de exercícios em Python, referente a matéria **Programação Orientada à Objetos** do curso **Análise e Desenvolvimento de Sistemas** ministrado pelo professor *Everton Hipolito de Freitas*.
